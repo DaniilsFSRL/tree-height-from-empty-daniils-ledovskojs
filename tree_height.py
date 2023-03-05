@@ -5,6 +5,7 @@ import threading
 import numpy
 
 
+
 def compute_height(n, parents):
     # Write this function
     max_height = 0
